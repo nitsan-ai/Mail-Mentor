@@ -305,4 +305,4 @@ mail-mentor/
 
 ## License
 
-Copyright © [NITSAN Technologies LLP](https://nitsantech.com/). All rights reserved.
+Copyright © [NITSAN Technologies LLP](https://nitsan.ai/). All rights reserved.
