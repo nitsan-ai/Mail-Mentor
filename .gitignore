@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Google OAuth / tokens
+config/credentials.json
+config/token.json
+credentials.json
+token.json
+
+# Secrets
+.env
+.env.*
+!.env.example
+config/credentials.json
+config/token.json
+credentials.json
+token.json
